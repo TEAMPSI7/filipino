@@ -49,6 +49,7 @@
 .right-container2 {
   background-color: white;
   flex-direction: column;
+  /* overflow: hidden; */
 }
 
 h2 {
